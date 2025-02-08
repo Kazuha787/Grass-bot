@@ -1,7 +1,7 @@
 
 ## Paste your proxies inside ```proxy_list.txt``` and the User ID inside ```id.txt```
 # [GET PROXIES FROM HERE](https://app.proxies.fo/ref/617d744d-615f-1b41-bf9d-e4692763a7bd)
-
+# .[JOIN MY TELEGRAM CHANNEL](https://t.me/Offical_Im_kazuha)
 # How to Get GRASS User ID
 
 1. Open your browser and login to the GRASS dashboard.
