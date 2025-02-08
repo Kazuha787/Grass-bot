@@ -1,0 +1,7 @@
+DELETE ALL AND REPLACE WITH YOUR PROXY, THIS IS JUST EXAMPLES
+http://127.0.0.1:8080
+socks5://127.0.0.1:8080
+socks4://127.0.0.1:8080
+http://user:pass@127.0.0.1:8080
+socks5://user:pass@127.0.0.1:8080
+socks4://user:pass@127.0.0.1:8080
